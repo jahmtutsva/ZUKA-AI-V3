@@ -1,5 +1,5 @@
 {
-  "name": "KEITH-MD",
+  "name": "ZUKA AI",
   "description": "This is a simple whatsapp bot built with nodejs to make your WhatsApp enjoyable ",
   "keywords": [
     "bot",
@@ -25,12 +25,12 @@
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 254748387615, 254796299159 ",
+      "description": "Put any phone numbers you want to be bot owner without + or spaces \",\" Ex: 263789544743",
       "required": false
     },
     "OWNER_NAME": {
       "description": "add your owner name for the bot",
-         "value": "",
+         "value": "TINASHE ZUKA",
       "required": true
     },
     "HEROKU_API_KEY": {
@@ -43,7 +43,7 @@
     },
     "BOTNAME": {
       "description": "Enter name for your bot.",
-      "value": "",
+      "value": "ZUKA AI",
       "required": true
     },
     "PM_PERMIT": {
@@ -57,7 +57,7 @@
       "required": false
     },
     "SESSION": {
-      "description": "Paste the session id that you received in whatsapp after linking the bot. It's used for authentication.",
+      "description": "KEITH;;;H4sIAAAAAAAAA61VbY+yOBT9K5t+1VlBQMBkkgUUFNQRUEfdbDYFKlQFKi0oPvG/bxjHzCTPy84my6emtOeee++5p99AlmOKHFSD/jdAClxBhpolqwkCfaCXux0qQBtEkEHQB7VRnjx1sYUnJ8Oza5Je1kq3m0vVKYN6dzlVZ73YEZREWInP4NYGpAyOOPwFYDzb5b6XidzMVdyq3qxq9vKqKcJ6SbtnX8dXMpIXMzqx18NncGsQIS5wFg9JglJUwKOD6jnExdfo+46oCrFrTjlnsAz8cI8HNXcaw/HOT2e5ex69xlsd+WlwyL9GvxsdPV0eHhK+NThRubSsLBfI5Vh0Fg467I31S0exNqdJqr3TpzjOUDSOUMYwq79cdzSMWqnvLoirLaweL9lTb0VbQt49XLXBy7gmyojEE8fbrA5fIz7a7VdbzjfDnp9TXvZmRSc9Sbk52RJ0nI6L5ZVdrKxTjYz4M/F58dDK4b/UvZws6VUxpfzC2XRqovk8t7fFvlKWfhZmK4jRIMDxCKFX+jX62oTHJuEGl9C6iF7oE1VCs8wK16HI9uvsyof2YLUavcT78wd9yMriVyw7hpGTzXbEs8lG3e5ZiV3EoU6hvpxfZ+KS39b2UkrEdaW/sGq0Ceevtpe1KByyuFLGnUMxN9NsTRaHyYoSVklVieaD8/NbRgdUjyPQ529tUKAYU1ZAhvPsbU9S2wBGlY/CArG38oJVvfTo0iUcpww3gdvZ18aaR14rLk2unHhuHQhnLwzCYOM+gzYgRR4iSlE0wpTlRT1FlMIYUdD/861TTdIFSnOGbBw1su0JsqJKoiiLwh/093MCGYWE/J4hBtpgV+TpFIE+K0rUBm8XZE3hxAHPGxLPy7IhdAVOUDVJMSVV5CWx16SY3oMucIoogykBfV4WxZ7A9UT+1v5/eEg6p6iqIKqaqBuypkqCqapmr6fo+lAzVfnXPCTh9lcbZOjC7jpuqi/wbbDDBWXLrCTHHEYPkT9+wjDMy4z5dRYazQIVoP9pGzGGs5g2mZUZLMIEV8ho8gD9HTxSdGuDCFU4RA0eGChP8my7Xnl/d3NyOQhBt+pxWtPBJM/uR7hehGDESU+iGilPIhfITwri1CdJjWRZ7sm8KgegKcfdQpo7P1W0489tYzLDjtESFwZyrZFTv/Yu89b4Pmd3KaICRY8qBzA8lGSRH1D2q3nmeEcfnBfDqaUSTss2Qnx1Tnm4t5efcO8SB/1vH7Zt5FGDpymW192MBqDpVhPnOzX0efl7QWSwOQ1smPw2ZSWjFWyCvXeigYkQg/hIQR8Y81Z06uTWcNpJFVmxLG0Ya0bclPrRuYcj3Cdu5m1TYlo9bCXM7o5X2sA5HOfp0CbZajDe5dWFnvQBapHj+fkHIKAPksExXJB9LLlVMt67rl+e/QOCFS3EiTiJ11wmW5fMNyZeoeuuMs53MytIO5gbL5ezva4mW55P4Ho0k2BMok2tjYLQaOzjoaDPwXRHP7OSs+CwSlb2fluGVBnyYxSSaby1uZdYUvGxNAMi0oM2MtkpHhvW4TKOaltdMrmTS3ZX8J1wFncTKrqsK/YEI7571ZtXHt/fKPzuIne97TB6s/z3Tvxrxz6kz93anzDeH5GfyEtfLF+3J88r8yQP/AibrlYTeyElBtzybj3qTZTAiV2hOm1DcGtmmhwh2+VFCvoAZlGR4wi0wRFSpn1M7w8MoSu2QVprhPgMssfQA635THoFt38AVzuGWB8JAAA=",
       "required": true
     },
     "AUTOVIEW_STATUS": {
